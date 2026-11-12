@@ -67,18 +67,10 @@ Engenheiro de Software & Inteligência Artificial, concluinte do **Bacharelado e
 ---
 
 ### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasTNM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTNM&layout=compact&theme=radical&border_radius=10" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=LucasTNM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LucasTNM&layout=compact&theme=radical&border_radius=10" />
 </div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LucasTNM&theme=radical&border_radius=10" />
-</div>
-
----
-
-<div align="center">
-  <sub>Desenvolvido com foco em impacto real, engenharia de dados e inteligência artificial aplicada.</sub>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=LucasTNM&theme=radical&border_radius=10" />
 </div>
